@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Computer Science<br>📫 How to reach me: kumnegerwondimu@gmail.com</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Computer Science<br>📫 How to reach me: kumnegerwondimu@gmail.com</p>
 
 ###
 
