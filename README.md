@@ -1,42 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 I'm Kumneger</h1>
 
-###
-
-<p align="left">My name is Kumneger Wondimu and I'm a Web Developer from Ethiopia.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-✨ Writing code (and sometimes bugs) since 2021 <br>
-🎓 Graduated with a Computer Science degree in June 2024 <br>
-🌟 I specialize in React, Node.js, and Next.js for building awesome web apps <br>
-🔭 Love exploring Go (Golang) for fun and backend experiments <br>
-📫 How to reach me: kumnegerwondimu@gmail.com
+<p align="center">
+Yet another guy from Ethiopia who loves building stuff on the internet
 </p>
 
-###
+---
 
-<h2 align="left">What I'm Up To</h2>
+<h2>About</h2>
 
-###
+- Building web apps and backend projects  
+- Working on personal and open-source projects  
+- Reach me at <a href="mailto:kumnegerwondimu@gmail.com">kumnegerwondimu@gmail.com</a>  
 
-<p align="left">
-- 🌱 Constantly learning and leveling up my skills in web development <br>
-- 🚀 Experimenting with projects that bring together JavaScript and Go <br>
-- 💬 Always happy to chat about web development, JavaScript, or tech in general!
-</p>
+---
 
-###
+<h2>Links</h2>
 
-<h2 align="left">Let's Connect</h2>
+- Portfolio: <a href="https://kumneger.dev">kumneger.dev</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/kumneger-wondimu-2b8405241/">kumneger-wondimu</a>  
+- BlueSky: <a href="https://bsky.app/profile/kumneger.dev">kumneger-wondimu</a>  
+- GitHub: <a href="https://github.com/kumneger">kumneger</a> 
 
-<p align="left">
-📫 Email: <a target="_blank" href="mailto:kumnegerwondimu@gmail.com">kumnegerwondimu@gmail.com</a> <br>
-💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/kumneger-wondimu-2b8405241/">kumneger-wondimu</a> <br>
-🌐 Portfolio: <a target="_blank" href="https://kumneger.dev">Portfolio Site</a> <br>
-🌌 BlueSky: <a target="_blank" href="https://bsky.app/profile/kumneger0.bsky.social">kumneger-wondimu</a>
-</p>
+---
+
+<h2>Currently Working On</h2>
+
+- <a href="https://github.com/kumneger/cligram">Cligram</a> – A CLI-based Telegram client  
+- Other personal projects and experiments
