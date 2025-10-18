@@ -11,5 +11,5 @@ Yet another guy from Ethiopia who loves building stuff on the internet
 
 ## Currently Working On
 
-- [Cligram](https://github.com/kumneger/cligram) – A CLI-based Telegram client  
+- [Cligram](https://github.com/kumneger0/cligram) – A CLI-based Telegram client  
 - Other personal projects and experiments
